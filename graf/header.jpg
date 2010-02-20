@@ -1,0 +1,2077 @@
+Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5567 
+  INFO  | file name: tjansterprod.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5568 
+  INFO  | file name: toyota20090402small.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5569 
+  INFO  | file name: toyota20090402stor.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5570 
+  INFO  | file name: trygghansacollage.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5571 
+  INFO  | file name: utomhusplant_100x76.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5572 
+  INFO  | file name: utomhus_gul_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5573 
+  INFO  | file name: utomhus_gul_230x263.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5574 
+  INFO  | file name: vaxter-darkgreen.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5575 
+  INFO  | file name: vaxter-over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5576 
+  INFO  | file name: vaxter.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5577 
+  INFO  | file name: vaxtinredn_100x82.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5578 
+  INFO  | file name: vit_blomma100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5579 
+  INFO  | file name: vit_blomma230x347.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5580 
+  INFO  | file name: whiteroses_100x153.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5581 
+  INFO  | file name: _vti_cnf 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5582 
+  INFO  | file name: affarside.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5583 
+  INFO  | file name: affarside_over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5584 
+  INFO  | file name: bonsai_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5585 
+  INFO  | file name: dicecollage.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5586 
+  INFO  | file name: DSC01642_small_crop.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5587 
+  INFO  | file name: foretaget.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5588 
+  INFO  | file name: foretaget_over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5589 
+  INFO  | file name: frukt_100x72.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5590 
+  INFO  | file name: greenleaves_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5591 
+  INFO  | file name: headerbg.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5592 
+  INFO  | file name: headerbg1.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5593 
+  INFO  | file name: headerbg_offset.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5594 
+  INFO  | file name: headerbg_offset1.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5595 
+  INFO  | file name: headerbg_opac.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5596 
+  INFO  | file name: headerbg_watercolor.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5597 
+  INFO  | file name: hem-darkgreen.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5598 
+  INFO  | file name: hem-over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5599 
+  INFO  | file name: hem.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5600 
+  INFO  | file name: klockor_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5601 
+  INFO  | file name: kontakt.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5602 
+  INFO  | file name: kontakt_over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5603 
+  INFO  | file name: kpmgcollage.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5604 
+  INFO  | file name: kpmgcollage2.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5605 
+  INFO  | file name: lsm_inred_logo.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5606 
+  INFO  | file name: lsm_inred_logo_smooth.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5607 
+  INFO  | file name: miljo.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5608 
+  INFO  | file name: miljo_over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5609 
+  INFO  | file name: olives_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5610 
+  INFO  | file name: olivkvist2.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5611 
+  INFO  | file name: olivkvist3.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5612 
+  INFO  | file name: olivkvist4.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5613 
+  INFO  | file name: omforetaget-darkgreen.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5614 
+  INFO  | file name: omforetaget-over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5615 
+  INFO  | file name: omforetaget.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5616 
+  INFO  | file name: orange_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5617 
+  INFO  | file name: OrdLars.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5618 
+  INFO  | file name: palmtrees_row_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5619 
+  INFO  | file name: palmtree_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5620 
+  INFO  | file name: personal.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5621 
+  INFO  | file name: personal_over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5622 
+  INFO  | file name: produkter-darkgreen.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5623 
+  INFO  | file name: produkter-over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5624 
+  INFO  | file name: produkter.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5625 
+  INFO  | file name: referenser-darkgreen.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5626 
+  INFO  | file name: referenser-over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5627 
+  INFO  | file name: referenser.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5628 
+  INFO  | file name: ref_dicelogga.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5629 
+  INFO  | file name: ref_kpmglogo.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5630 
+  INFO  | file name: ref_skarholmenClogga.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5631 
+  INFO  | file name: ref_trygglogga.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5632 
+  INFO  | file name: skansen01.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5633 
+  INFO  | file name: skansen01_small.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5634 
+  INFO  | file name: skansen02.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5635 
+  INFO  | file name: skansen02_small.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5636 
+  INFO  | file name: skansen03.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5637 
+  INFO  | file name: skansen03_small.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5638 
+  INFO  | file name: skansencollage.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5639 
+  INFO  | file name: skansencollage_mindre.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5640 
+  INFO  | file name: skansencollage_större.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5641 
+  INFO  | file name: skansen_logo.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5642 
+  INFO  | file name: skarholmencollage.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5643 
+  INFO  | file name: snitt01_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5644 
+  INFO  | file name: snitt02_100x154.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5645 
+  INFO  | file name: snitt03_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5646 
+  INFO  | file name: snittblomma_100x82.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5647 
+  INFO  | file name: space.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5648 
+  INFO  | file name: space10.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5649 
+  INFO  | file name: starpalm_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5650 
+  INFO  | file name: taklok_100x153.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5651 
+  INFO  | file name: taklok_400x225.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5652 
+  INFO  | file name: taklok_i_kruka_400x296.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5653 
+  INFO  | file name: tjanster-darkgreen.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5654 
+  INFO  | file name: tjanster-over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5655 
+  INFO  | file name: tjanster.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5656 
+  INFO  | file name: tjansteroprod-darkgreen.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5657 
+  INFO  | file name: tjansteroprod-over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5658 
+  INFO  | file name: tjansterprod.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5659 
+  INFO  | file name: trygghansacollage.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5660 
+  INFO  | file name: utomhusplant_100x76.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5661 
+  INFO  | file name: vaxter-darkgreen.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5662 
+  INFO  | file name: vaxter-over.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5663 
+  INFO  | file name: vaxter.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5664 
+  INFO  | file name: vaxtinredn_100x82.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5665 
+  INFO  | file name: whiteroses_100x153.gif 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5666 
+  INFO  | file name: TRYGG 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5667 
+  INFO  | file name: trygg1.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5668 
+  INFO  | file name: trygg2.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5669 
+  INFO  | file name: trygg3.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5670 
+  INFO  | file name: trygg4.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5671 
+  INFO  | file name: trygg5.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5672 
+  INFO  | file name: SKARHOLMEN 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5673 
+  INFO  | file name: skarholmen1.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5674 
+  INFO  | file name: skarholmen2.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5675 
+  INFO  | file name: skarholmen3.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5676 
+  INFO  | file name: skarholmen4.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5677 
+  INFO  | file name: SKANSEN 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5678 
+  INFO  | file name: skansen01_400x268.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5679 
+  INFO  | file name: skansen02_200x250.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5680 
+  INFO  | file name: skansen02_213x267.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5681 
+  INFO  | file name: skansen02_268x400.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5682 
+  INFO  | file name: skansen03_200x448.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5683 
+  INFO  | file name: skansen04_180x.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5684 
+  INFO  | file name: skansen04_242x595.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5685 
+  INFO  | file name: skansen04_376x600.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5686 
+  INFO  | file name: skansen05_168x.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 5687 
+  INFO  | file name: skansen05_200x111.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT   | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6090 
+  INFO  | file name: Style_2 0001.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6091 
+  INFO  | file name: Style_cub_grup2 0006.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6092 
+  INFO  | file name: Style_cub_grupp 0004.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6093 
+  INFO  | file name: Style_cubico_1 0003.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6094 
+  INFO  | file name: Style_cubico_1 0005.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6095 
+  INFO  | file name: Style_cubico_2 0002.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6096 
+  INFO  | file name: TEND_015.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6097 
+  INFO  | file name: TEND_tendence_image 0073.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6098 
+  INFO  | file name: tend_wall_grupp 0044.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6099 
+  INFO  | file name: tende_wall_black 0046.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6100 
+  INFO  | file name: tenden_hi_grupp 0039.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6101 
+  INFO  | file name: tenden_wall_grey 0047.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6102 
+  INFO  | file name: tendenc_hi_black 0043.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6103 
+  INFO  | file name: tendenc_hi_white 0041.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6104 
+  INFO  | file name: tendence_2_grey 0050.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6105 
+  INFO  | file name: tendence_hi_grey 0042.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6106 
+  INFO  | file name: tendence_hi_red 0040.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6107 
+  INFO  | file name: tendence_image 0073.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6108 
+  INFO  | file name: tendens_wall_red 0048.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6109 
+  INFO  | file name: tendens_wall_whi0045.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6110 
+  INFO  | file name: Terraz_Nova_skugga.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6111 
+  INFO  | file name: Terraz_wall_skugga.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6112 
+  INFO  | file name: Terrazzo_image.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6113 
+  INFO  | file name: Terrazzo_oval.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6114 
+  INFO  | file name: 07981.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6115 
+  INFO  | file name: co_sq_hi_2_grey 0008.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6116 
+  INFO  | file name: co_sq_high_grupp 002.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6117 
+  INFO  | file name: com_cub_1_grey 0013.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6118 
+  INFO  | file name: com_cub_grupp 0014.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6119 
+  INFO  | file name: com_hi_2_black 0010.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6120 
+  INFO  | file name: com_high_1_grey 0011.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6121 
+  INFO  | file name: com_oval_grupp.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6122 
+  INFO  | file name: com_sq_hi_1_bla 0009.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6123 
+  INFO  | file name: comphigh_grupp 0012.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6124 
+  INFO  | file name: exit_wall_grey 0038.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6125 
+  INFO  | file name: exit_wall_grupp 0036.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6126 
+  INFO  | file name: exit_wall_rost 0037.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6127 
+  INFO  | file name: image_grey_red2.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6128 
+  INFO  | file name: light_del_1_silver 0051.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6129 
+  INFO  | file name: light_del_2_black 0054.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6130 
+  INFO  | file name: light_del_2_white 0056.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6131 
+  INFO  | file name: light_del_3_black 0061.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6132 
+  INFO  | file name: light_del_3_grey 0059.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6133 
+  INFO  | file name: light_del_3_white 0060.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6134 
+  INFO  | file name: light_del_grupp 0049.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6135 
+  INFO  | file name: light_del_ov_grey 0057.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6136 
+  INFO  | file name: light_delt_1_grey 0053.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6137 
+  INFO  | file name: light_delta_2_red 0055.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6138 
+  INFO  | file name: light_delta_3_red 0058.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6139 
+  INFO  | file name: next_grey_1 0019.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6140 
+  INFO  | file name: next_grey_2 0016.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6141 
+  INFO  | file name: next_grupp 0018.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6142 
+  INFO  | file name: next_hi_1_grey 0023.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6143 
+  INFO  | file name: next_hi_2_grey 0021.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6144 
+  INFO  | file name: next_high_1_rost 0024.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6145 
+  INFO  | file name: next_high_2_rost 0022.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6146 
+  INFO  | file name: next_high_grupp 0025.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6147 
+  INFO  | file name: next_image1 0067.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6148 
+  INFO  | file name: next_image2 0068.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6149 
+  INFO  | file name: next_rost_1 0015.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6150 
+  INFO  | file name: next_rost_2 0017.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6151 
+  INFO  | file name: Office_high_grey.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6152 
+  INFO  | file name: Office_high_svart.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6153 
+  INFO  | file name: space_black 0033.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6154 
+  INFO  | file name: space_hi_1_black 0029.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6155 
+  INFO  | file name: space_hi_1_white 0030.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6156 
+  INFO  | file name: space_hi_2_black 0034.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6157 
+  INFO  | file name: space_hi_2_white 0031.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6158 
+  INFO  | file name: space_hi_grupp 0035.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6159 
+  INFO  | file name: space_image2 0070.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6160 
+  INFO  | file name: space_ov_1_blac 0063.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6161 
+  INFO  | file name: space_ov_1_whi 0062.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6162 
+  INFO  | file name: space_ov_2_blac0064.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6163 
+  INFO  | file name: space_ov_2_whit0065.jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6164 
+  INFO  | file name: tendence_image 0073 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6165 
+  INFO  | file name: tendens_wall_red 0048 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6166 
+  INFO  | file name: tendens_wall_whi0045 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6167 
+  INFO  | file name: Terraz_Nova_skugga (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6168 
+  INFO  | file name: Terraz_wall_skugga (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6169 
+  INFO  | file name: Terrazzo_image (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6170 
+  INFO  | file name: Terrazzo_oval (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6171 
+  INFO  | file name: 07981 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6172 
+  INFO  | file name: co_sq_hi_2_grey 0008 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6173 
+  INFO  | file name: co_sq_high_grupp 002 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6174 
+  INFO  | file name: com_cub_1_grey 0013 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6175 
+  INFO  | file name: com_cub_grupp 0014 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6176 
+  INFO  | file name: com_hi_2_black 0010 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6177 
+  INFO  | file name: com_high_1_grey 0011 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6178 
+  INFO  | file name: com_oval_grupp (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6179 
+  INFO  | file name: com_sq_hi_1_bla 0009 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6180 
+  INFO  | file name: comphigh_grupp 0012 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6181 
+  INFO  | file name: exit_wall_grey 0038 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6182 
+  INFO  | file name: exit_wall_grupp 0036 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6183 
+  INFO  | file name: exit_wall_rost 0037 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6184 
+  INFO  | file name: image_grey_red2 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6185 
+  INFO  | file name: light_del_1_silver 0051 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6186 
+  INFO  | file name: light_del_2_black 0054 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6187 
+  INFO  | file name: light_del_2_white 0056 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6188 
+  INFO  | file name: light_del_3_black 0061 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6189 
+  INFO  | file name: light_del_3_grey 0059 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6190 
+  INFO  | file name: light_del_3_white 0060 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6191 
+  INFO  | file name: light_del_grupp 0049 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6192 
+  INFO  | file name: light_del_ov_grey 0057 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6193 
+  INFO  | file name: light_delt_1_grey 0053 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6194 
+  INFO  | file name: light_delta_2_red 0055 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6195 
+  INFO  | file name: light_delta_3_red 0058 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6196 
+  INFO  | file name: next_grey_1 0019 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6197 
+  INFO  | file name: next_grey_2 0016 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6198 
+  INFO  | file name: next_grupp 0018 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6199 
+  INFO  | file name: next_hi_1_grey 0023 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6200 
+  INFO  | file name: next_hi_2_grey 0021 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6201 
+  INFO  | file name: next_high_1_rost 0024 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6202 
+  INFO  | file name: next_high_2_rost 0022 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6203 
+  INFO  | file name: next_high_grupp 0025 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6204 
+  INFO  | file name: next_image1 0067 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6205 
+  INFO  | file name: next_image2 0068 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6206 
+  INFO  | file name: next_rost_1 0015 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6207 
+  INFO  | file name: next_rost_2 0017 (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 6208 
+  INFO  | file name: Office_high_grey (Custom).jpg 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructeCOM 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 30 
+  INFO  | file name: boot.ini 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 31 
+  INFO  | file name: tracking.log 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 32 - l 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | file name: System Volume Information - l 
+  INFO  | Constructing node entry for MFT entry - l 
+  INFO  | Node entry for MFT entry was successfully constructed - l 
+  INFO  | Start of getting file parametres(size, time, date) - l 
+  INFO  | End of getting file parametres(size, time, date) - l 
+  INFO  | Getting parent dir entry num - l 
+  INFO  | End of getting parent dir for entry num - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 33 
+  INFO  | file name: MountPointManagerRemoteDatabase 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 34 
+  INFO  | file name: CONFIG.SYS 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 35 
+  INFO  | file name: AUTOEXEC.BAT 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 36 
+  INFO  | file name: IO.SYS 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 37 
+  INFO  | file name: MSDOS.SYS 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 38 
+ASSERT  | A.F. Exp [!((pattr->flags & ATTR_IS_COMPRESSED) && pattr->compression_unit && pattr->compression_unit != 4)] File [D:\SVN_Source\fslib\ntfsparser.cpp] Line  [342] 
+ ERROR  | $DATA fail! 
+  INFO  | file name: RestorePointSize 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 42 - l 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | file name: RP126 - l 
+  INFO  | Constructing node entry for MFT entry - l 
+  INFO  | Node entry for MFT entry was successfully constructed - l 
+  INFO  | Start of getting file parametres(size, time, date) - l 
+  INFO  | End of getting file parametres(size, time, date) - l 
+  INFO  | Getting parent dir entry num - l 
+  INFO  | End of getting parent dir for entry num - l 
+  INFO  | read MFT record 39 - l 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | file name: _restore{90C3C488-F963-40EE-85BF-1DFF9813A56C} - l 
+  INFO  | Constructing node entry for MFT entry - l 
+  INFO  | Node entry for MFT entry was successfully constructed - l 
+  INFO  | Start of getting file parametres(size, time, date) - l 
+  INFO  | End of getting file parametres(size, time, date) - l 
+  INFO  | Getting parent dir entry num - l 
+  INFO  | End of getting parent dir for entry num - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 40 
+  INFO  | file name: RP0 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 41 
+  INFO  | file name: change.log.1 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 43 
+  INFO  | file name: change.log.1 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 44 
+  INFO  | file name: SWTOOLS 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 45 
+  INFO  | file name: A0014524.ini 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 46 
+  INFO  | file name: change.log.2 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 47 
+  INFO  | file name: DRIVERS 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!

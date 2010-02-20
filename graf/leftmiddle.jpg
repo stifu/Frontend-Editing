@@ -1,0 +1,382 @@
+---!!! 
+  INFO  | --> read MFT record 4798 
+  INFO  | file name: ROLI35.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4799 
+  INFO  | file name: ROLI36.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4800 
+  INFO  | file name: ROLI37.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4801 
+  INFO  | file name: ROLI38.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4802 
+  INFO  | file name: ROLI39.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4803 
+  INFO  | file name: Roli4.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4804 
+  INFO  | file name: ROLI5.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4805 
+  INFO  | file name: ROLI6.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4806 
+  INFO  | file name: ROLI7.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4807 
+  INFO  | file name: ROLI8.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4808 
+  INFO  | file name: ROLI9.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4809 
+  INFO  | file name: SystemSetup10.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4810 
+  INFO  | file name: SystemSetup11.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4811 
+  INFO  | file name: SystemSetup12.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4812 
+  INFO  | file name: SystemSetup14.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4813 
+  INFO  | file name: SystemSetup18.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4814 
+  INFO  | file name: SystemSetup19.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4815 
+  INFO  | file name: SystemSetup2.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4816 
+  INFO  | file name: SystemSetup20.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4817 
+  INFO  | file name: SystemSetup3.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4818 
+  INFO  | file name: SystemSetup31.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4819 
+  INFO  | file name: SystemSetup32.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4820 
+  INFO  | file name: SystemSetup33.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4821 
+  INFO  | file name: SystemSetup34.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4822 
+  INFO  | file name: SystemSetup35.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4823 
+  INFO  | file name: SystemSetup5.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4824 
+  INFO  | file name: SystemSetup6.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4825 
+  INFO  | file name: SystemSetup7.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4826 
+  INFO  | file name: SystemSetup8.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4827 
+  INFO  | file name: SystemSetup9.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4828 
+  INFO  | file name: Databaser 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4829 
+  INFO  | file name: Admin201.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4830 
+  INFO  | file name: Admin202.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4831 
+  INFO  | file name: Admin220.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4832 
+  INFO  | file name: Admin222.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4833 
+  INFO  | file name: Admin227.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4834 
+  INFO  | file name: Company201.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4835 
+  INFO  | file name: Company202.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4836 
+  INFO  | file name: company203.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4837 
+  INFO  | file name: Company206.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4838 
+  INFO  | file name: Company207.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4839 
+  INFO  | file name: company208.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4840 
+  INFO  | file name: Company209.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4841 
+  INFO  | file name: Company210.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4842 
+  INFO  | file name: Company211.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4843 
+  INFO  | file name: Company212.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4844 
+  INFO  | file name: Company213.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 4845 
+  INFO  | file name: company215.sql 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametr

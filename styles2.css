@@ -1,0 +1,79 @@
+body
+{
+	background-image: url(graf/bg2.jpg);
+	background-color: #2e7795;
+	background-repeat: no-repeat;
+	margin:0px;
+	font-family: Verdana;
+	font-size: 11px;
+	padding:0px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #111718;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: #2e4e54;
+}
+
+img
+{
+	border: 0px;
+}
+.menudivider
+{
+	
+	vertical-align: middle;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+div
+{}
+.header
+{
+	background-image: url(graf/header.png);
+	width: 870px;
+	height: 191px;
+	padding: 0px;
+	margin-top: 30px;
+}
+
+.menu
+{
+	font-size: 12px;
+	text-align: center;
+	position: absolute;
+	width: 467px;
+	height: 52px;
+	left: 380px;
+	top: 117px;
+}
+
+.middleblock
+{
+	width: 824px;
+	height: 550px;
+	margin-top: 8px;
+	margin-left: 30px;
+	padding: 0px;
+}
+
+.meat
+{
+	background-color: #a7b7ba;
+	position: absolute;
+	top: -524px;
+	left: 30px;
+	width: 543px;
+	height: 500px;
+	overflow: auto;
+}
+
+ul
+{}
