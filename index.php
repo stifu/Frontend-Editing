@@ -41,9 +41,11 @@
                 $submit = $_GET['submit'];
                 $file  = 'content/'.$submit.'.tpl';
                 $fh = fopen ($file, 'w') or die('fopen error');
-                $text = $_POST['text'];
+				$_SESSION['msg'] = '<span style="color: red"><b>'.$_SESSION['focus'].'</b> Sparad</span>';
+				$text = $_POST['text'];
                 fwrite ($fh, $text);
                 fclose ($fh);
+				header ('location: index.php?pageID='.$_SESSION['focus'].'&saved='.$_SESSION['focus']);
             }
 
         }
@@ -96,7 +98,15 @@
                         echo '</textarea>';
                         echo '<input type="submit" name="button" value="Spara"/>';
                         echo '<input type="submit" name="button" value="Logga ut"/>';
+						
+						
+						if (isset ($_GET['saved']))
+						{
+							echo '<span style="color: red"><b>'.$_GET['saved'].'</b> Sparad</span>';
+						}
                         echo '</form>';
+						
+						$_SESSION['focus'] = $page;
                     }
                     else
                         require 'content/'.$page.'.tpl';
