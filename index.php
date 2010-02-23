@@ -1,5 +1,6 @@
 <?php
     session_start();
+//this is good security right here, mate XD
     if (isset($_POST['username']))
     {
         if ($_POST['username'] == 'steve' && $_POST['password'] == '1234')
